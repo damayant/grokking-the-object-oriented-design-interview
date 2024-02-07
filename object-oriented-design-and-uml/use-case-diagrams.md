@@ -3,6 +3,7 @@
 Use case diagrams describe a set of actions (called use cases) that a system should or can perform in collaboration with one or more external users of the system (called actors). Each use case should provide some observable and valuable result to the actors.
 
 1.<strong> Use Case Diagrams describe the high-level functional behavior of the system.</strong>
+
 2. It answers what system does from the user point of view.
 3. Use case answers ‘What will the system do?’ and at the same time tells us ‘What will the system NOT do?’.
 
